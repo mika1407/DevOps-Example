@@ -1,5 +1,5 @@
 # DevOps-Example
-Esimerkki
+EsimerkkiDev
 * Bullet point
 1. Luettelo
 2. Luettelo 2
